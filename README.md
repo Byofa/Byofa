@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabio Alexandre Aires Machado alias @Byofa
 - 👀 I’m interested in Web and Mobile development.
-- 🌱 I’m currently learning react.js.
-- 💞️ I’m looking to a aprenticeship to start right now.
+- 🌱 I’m currently learning flutter and improving my laravel.
+<!--- 💞️ I’m looking to a aprenticeship to start right now. --->
 - 📫 How to reach me ---> machad_f@etna-alternance.net
 
 <!---
